@@ -103,7 +103,7 @@ Deployment requirements are kept separate from local development dependencies. T
 - The Allocation Studio uses common monthly returns.
 - Coverage Lens measures evidence breadth, not truth or predictability.
 
-## Submission Placeholders
+## Deployment Links
 
 - Live Streamlit URL: https://z5641844projectb-27zghttja2ajpyztryvvm3.streamlit.app/
 - Public GitHub repository URL: https://github.com/charles-h-unsw/z5641844_projectB
