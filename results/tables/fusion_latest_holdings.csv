@@ -1,0 +1,151 @@
+rebalance_date,fund_id,fund_name,asset_family,method,asset,asset_class,sector,pretrade_weight,target_weight,is_latest_rebalance
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,ABBV,Equity,Healthcare,0.0184663714108,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,ABT,Equity,Healthcare,0.0201955802626,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,ADBE,Equity,Tech,0.0210263034035,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,AEP,Equity,Utilities,0.01950098255,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,AMD,Equity,Tech,0.0225215489929,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,AMGN,Equity,Healthcare,0.0194594309227,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,AMT,Equity,RealEstate,0.0214526451956,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,BA,Equity,Industrials,0.022701086394,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,CAT,Equity,Industrials,0.0203076510859,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,CCI,Equity,RealEstate,0.0230945565538,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,CMCSA,Equity,Comm,0.0185755068119,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,COP,Equity,Energy,0.0179014476536,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,CVX,Equity,Energy,0.0182309574617,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,D,Equity,Utilities,0.0208876303607,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,DD,Equity,Materials,0.0180640207884,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,DIS,Equity,Consumer,0.0208003775214,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,DOW,Equity,Materials,0.0198701194665,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,DUK,Equity,Utilities,0.0192276512898,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,EA,Equity,Comm,0.020441009033,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,GE,Equity,Industrials,0.0205292334735,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,GILD,Equity,Healthcare,0.017857191263,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,GS,Equity,Financials,0.0207659756447,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,INTC,Equity,Tech,0.0224965297384,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,KO,Equity,Consumer,0.0190923025417,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,MMM,Equity,Industrials,0.0202579632028,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,MRK,Equity,Healthcare,0.0182702240512,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,MS,Equity,Financials,0.0205121574613,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,NEE,Equity,Utilities,0.0185249243958,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,NEM,Equity,Materials,0.0198341058129,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,NKE,Equity,Consumer,0.0196456393007,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,NUE,Equity,Materials,0.0210572876011,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,NVDA,Equity,Tech,0.0209988396003,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,O,Equity,RealEstate,0.0209521445231,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,OXY,Equity,Energy,0.0175214951591,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,PLD,Equity,RealEstate,0.0208864016698,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,PSA,Equity,RealEstate,0.0198473144454,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,QCOM,Equity,Tech,0.021817242664,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,SBUX,Equity,Consumer,0.019819154845,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,SHW,Equity,Materials,0.021478372196,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,SLB,Equity,Energy,0.0171186433528,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,SO,Equity,Utilities,0.0195049194155,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,T,Equity,Comm,0.0197004886381,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,TMUS,Equity,Comm,0.0192317636361,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,TTWO,Equity,Comm,0.021656481064,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,UPS,Equity,Industrials,0.0198824992386,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,USB,Equity,Financials,0.0218932308218,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,V,Equity,Financials,0.0200326428321,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,WFC,Equity,Financials,0.0207115032617,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,WMT,Equity,Consumer,0.0174444518021,0.02,True
+2023-12-01,equity_equal_weight,Equity Equal Weight,Equity,Equal Weight,XOM,Equity,Energy,0.0179339991886,0.02,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,AEP,Equity,Utilities,0.0225274987984,0.0245942986061,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,D,Equity,Utilities,0.0241293517721,0.0245942986061,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,DUK,Equity,Utilities,0.0222117470346,0.0245942986061,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,NEE,Equity,Utilities,0.0213999582327,0.0245942986061,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,SO,Equity,Utilities,0.0225320466581,0.0245942986061,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,ADBE,Equity,Tech,0.0224799265795,0.0226472310998,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,AMD,Equity,Tech,0.0240785438172,0.0226472310998,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,INTC,Equity,Tech,0.0240517948927,0.0226472310998,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,NVDA,Equity,Tech,0.0224505641058,0.0226472310998,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,QCOM,Equity,Tech,0.0233255462856,0.0226472310998,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,DD,Equity,Materials,0.0161489791337,0.0216532727273,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,DOW,Equity,Materials,0.0177636058111,0.0216532727273,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,NEM,Equity,Materials,0.0177314101141,0.0216532727273,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,NUE,Equity,Materials,0.0188249173351,0.0216532727273,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,SHW,Equity,Materials,0.0192013610082,0.0216532727273,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,COP,Equity,Energy,0.0180494667928,0.0204652972213,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,CVX,Equity,Energy,0.0183817011714,0.0204652972213,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,OXY,Equity,Energy,0.0176663726394,0.0204652972213,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,SLB,Equity,Energy,0.01726018983,0.0204652972213,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,XOM,Equity,Energy,0.0180822874819,0.0204652972213,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,AMT,Equity,RealEstate,0.0266793053343,0.019710630869,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,CCI,Equity,RealEstate,0.0287212472047,0.019710630869,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,O,Equity,RealEstate,0.0260568641322,0.019710630869,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,PLD,Equity,RealEstate,0.0259751038812,0.019710630869,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,PSA,Equity,RealEstate,0.0246828564648,0.019710630869,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,BA,Equity,Industrials,0.0191761110624,0.0191650123448,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,CAT,Equity,Industrials,0.0171543231845,0.0191650123448,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,GE,Equity,Industrials,0.0173414987407,0.0191650123448,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,MMM,Equity,Industrials,0.0171123507278,0.0191650123448,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,UPS,Equity,Industrials,0.0167951879916,0.0191650123448,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,ABBV,Equity,Healthcare,0.0184742253456,0.018549076552,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,ABT,Equity,Healthcare,0.0202041696475,0.018549076552,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,AMGN,Equity,Healthcare,0.0194677072157,0.018549076552,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,GILD,Equity,Healthcare,0.0178647861073,0.018549076552,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,MRK,Equity,Healthcare,0.0182779945625,0.018549076552,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,CMCSA,Equity,Comm,0.0165827584493,0.0182746419797,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,EA,Equity,Comm,0.0182481328065,0.0182746419797,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,T,Equity,Comm,0.0175870541636,0.0182746419797,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,TMUS,Equity,Comm,0.0171686131721,0.0182746419797,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,TTWO,Equity,Comm,0.0193332110925,0.0182746419797,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,DIS,Equity,Consumer,0.0205030249334,0.0175279862801,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,KO,Equity,Consumer,0.0188193678046,0.0175279862801,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,NKE,Equity,Consumer,0.0193647943169,0.0175279862801,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,SBUX,Equity,Consumer,0.0195358293631,0.0175279862801,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,WMT,Equity,Consumer,0.0171950739779,0.0175279862801,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,GS,Equity,Financials,0.0186608375791,0.0174125523201,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,MS,Equity,Financials,0.0184327500587,0.0174125523201,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,USB,Equity,Financials,0.019673817953,0.0174125523201,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,V,Equity,Financials,0.0180018459314,0.0174125523201,True
+2023-12-01,equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,Equity,Coverage-Gated Sentiment Tilt,WFC,Equity,Financials,0.0186118873006,0.0174125523201,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,AEP,Equity,Utilities,0.0239758241924,0.0260254625712,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,D,Equity,Utilities,0.0256806626045,0.0260254625712,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,DUK,Equity,Utilities,0.0236397722922,0.0260254625712,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,NEE,Equity,Utilities,0.0227757924173,0.0260254625712,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,SO,Equity,Utilities,0.0239806644406,0.0260254625712,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,ADBE,Equity,Tech,0.0232111231285,0.0242565820206,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,AMD,Equity,Tech,0.0248617380186,0.0242565820206,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,INTC,Equity,Tech,0.0248341190413,0.0242565820206,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,NVDA,Equity,Tech,0.0231808055921,0.0242565820206,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,QCOM,Equity,Tech,0.024084248005,0.0242565820206,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,DD,Equity,Materials,0.015904445364,0.021616706319,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,DOW,Equity,Materials,0.0174946227716,0.021616706319,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,NEM,Equity,Materials,0.0174629145937,0.021616706319,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,NUE,Equity,Materials,0.018539863527,0.021616706319,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,SHW,Equity,Materials,0.0189106069518,0.021616706319,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,COP,Equity,Energy,0.0180156993589,0.0203959701571,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,CVX,Equity,Energy,0.0183473121844,0.0203959701571,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,OXY,Equity,Energy,0.0176333219085,0.0203959701571,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,SLB,Equity,Energy,0.017227898997,0.0203959701571,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,XOM,Equity,Energy,0.0180484586462,0.0203959701571,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,AMT,Equity,RealEstate,0.0271506682076,0.0193866039871,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,CCI,Equity,RealEstate,0.0292286865642,0.0193866039871,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,O,Equity,RealEstate,0.02651722988,0.0193866039871,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,PLD,Equity,RealEstate,0.0264340251106,0.0193866039871,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,PSA,Equity,RealEstate,0.0251189466104,0.0193866039871,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,BA,Equity,Industrials,0.0186545682905,0.0186065322103,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,CAT,Equity,Industrials,0.0166877680401,0.0186065322103,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,GE,Equity,Industrials,0.0168698528844,0.0186065322103,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,MMM,Equity,Industrials,0.0166469371304,0.0186065322103,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,UPS,Equity,Industrials,0.0163384004358,0.0186065322103,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,ABBV,Equity,Healthcare,0.0183972576347,0.0182703234119,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,ABT,Equity,Healthcare,0.0201199946058,0.0182703234119,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,AMGN,Equity,Healthcare,0.0193866004395,0.0182703234119,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,GILD,Equity,Healthcare,0.0177903574551,0.0182703234119,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,MRK,Equity,Healthcare,0.0182018443924,0.0182703234119,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,CMCSA,Equity,Comm,0.0153828393602,0.0179049378938,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,EA,Equity,Comm,0.0169277081642,0.0179049378938,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,T,Equity,Comm,0.0163144648006,0.0179049378938,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,TMUS,Equity,Comm,0.0159263019643,0.0179049378938,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,TTWO,Equity,Comm,0.0179342707947,0.0179049378938,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,DIS,Equity,Consumer,0.0203579407714,0.0167932112997,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,KO,Equity,Consumer,0.0186861975911,0.0167932112997,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,NKE,Equity,Consumer,0.0192277645388,0.0167932112997,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,SBUX,Equity,Consumer,0.0193975893013,0.0167932112997,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,WMT,Equity,Consumer,0.0170733976444,0.0167932112997,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,GS,Equity,Financials,0.0182686319494,0.0167436701294,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,MS,Equity,Financials,0.0180453382765,0.0167436701294,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,USB,Equity,Financials,0.0192603219281,0.0167436701294,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,V,Equity,Financials,0.0176234907107,0.0167436701294,True
+2023-12-01,equity_sentiment_naive,Equity Naive Sentiment Tilt,Equity,Naive Sentiment Tilt,WFC,Equity,Financials,0.0182207104873,0.0167436701294,True

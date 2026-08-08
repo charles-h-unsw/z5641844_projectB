@@ -1,0 +1,2 @@
+total_clean_headlines,total_scored_headlines,unscored_or_missing_title_count,exact_zero_compound_count,vader_neutral_count,positive_count,negative_count,compound_mean,compound_std,compound_min,compound_max,ticker_days,sector_days_with_news,sector_days_without_news,exact_zero_compound_share,vader_neutral_share,positive_share,negative_share
+146836,146830,6,71720,72786,54980,19064,0.105610143704,0.288147726835,-0.9186,0.9552,37962,9832,228,0.488456037594,0.495716134305,0.37444663897,0.129837226725

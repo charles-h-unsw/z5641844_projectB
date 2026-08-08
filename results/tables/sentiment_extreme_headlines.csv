@@ -1,0 +1,51 @@
+tail,date,ticker,sector,title,compound
+most_positive,2020-04-14,ADBE,Tech,"Shares of several technology companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",0.9552
+most_positive,2020-04-14,AMD,Tech,"Shares of several technology companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",0.9552
+most_positive,2020-04-14,CAT,Industrials,"Shares of several industrial companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",0.9552
+most_positive,2020-04-14,CCI,RealEstate,"Shares of several real estate companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",0.9552
+most_positive,2020-04-14,KO,Consumer,"Shares of several beverage companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",0.9552
+most_positive,2020-04-14,MMM,Industrials,"Shares of several industrial companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",0.9552
+most_positive,2020-04-14,NVDA,Tech,"Shares of several technology companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",0.9552
+most_positive,2020-04-14,O,RealEstate,"Shares of several real estate companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",0.9552
+most_positive,2020-04-14,PSA,RealEstate,"Shares of several real estate companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",0.9552
+most_positive,2020-04-14,QCOM,Tech,"Shares of several technology companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",0.9552
+most_positive,2020-04-14,SBUX,Consumer,"Shares of several restaurant, fast food and dining companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",0.9552
+most_positive,2020-03-04,NEE,Utilities,NextEra Energy shares are trading higher in sympathy with the overall market after Joe Biden took the delegate lead on Super Tuesday. Biden's more 'moderate' economic policies have been seen as more favorable for growth.,0.9428
+most_positive,2020-03-04,MRK,Healthcare,Shares of several healthcare-related companies are trading higher after Joe Biden secured several key wins in Super Tuesday. Biden's more 'moderate' healthcare policies have been seen as more favorable for the sector.,0.9422
+most_positive,2022-07-25,O,RealEstate,Love Passive Income? Here Are 3 Great Stocks to Help You Collect Some Easy Cash Flow,0.9403
+most_positive,2020-05-20,ADBE,Tech,"Shares of several technology companies are trading higher as equities gain amid strength in oil, strong earnings from Lowe's, and optimism towards a US economic rebound.",0.9393
+most_positive,2020-05-20,MS,Financials,"Shares of several financial services companies are trading higher as equities gain amid strength in oil, strong earnings from Lowe's and optimism towards a US economic rebound.",0.9393
+most_positive,2020-05-20,QCOM,Tech,"Shares of several technology companies are trading higher as equities gain amid strength in oil, strong earnings from Lowe's, and optimism towards a US economic rebound.",0.9393
+most_positive,2020-05-20,USB,Financials,"Shares of several financial services companies are trading higher as equities gain amid strength in oil, strong earnings from Lowe's and optimism towards a US economic rebound.",0.9393
+most_positive,2020-05-20,WFC,Financials,"Shares of several financial services companies are trading higher as equities gain amid strength in oil, strong earnings from Lowe's and optimism towards a US economic rebound.",0.9393
+most_positive,2020-04-29,ADBE,Tech,"Shares of several technology companies are trading higher amid market strength following positive data from a study of Gilead's Remdesivir, which is being evaluated for coronavirus. A successful treatment could mean a sooner return to economic activity. NOTE: Some names may also be moving in sympathy following recent earnings from Google and some semiconductor companies.",0.936
+most_positive,2020-04-29,NVDA,Tech,"Shares of several technology companies are trading higher amid market strength following positive data from a study of Gilead's Remdesivir, which is being evaluated for coronavirus. A successful treatment could mean a sooner return to economic activity. NOTE: Some names may also be moving in sympathy following recent earnings from Google and some semiconductor companies.",0.936
+most_positive,2020-04-29,QCOM,Tech,"Shares of several technology companies are trading higher amid market strength following positive data from a study of Gilead's Remdesivir, which is being evaluated for coronavirus. A successful treatment could mean a sooner return to economic activity. NOTE: Some names may also be moving in sympathy following recent earnings from Google and some semiconductor companies.",0.936
+most_positive,2020-01-31,KO,Consumer,"UPDATE: Morgan Stanley Maintains Overweight On Coca-Cola, Raises Target To $65 Believes Co. 'offers a clearly superior LT growth outlook vs. CPG peers, with solid category growth, stronger KO pricing power, and favorable strategy tweaks'",0.9349
+most_positive,2020-04-07,CAT,Industrials,Shares of several industrial companies are trading higher amid optimism that coronavirus cases in Asia are potentially easing. Strength may also be attributed to optimism that coronavirus cases in several US hotspots appear to be reaching their peak.,0.9349
+most_positive,2020-04-07,UPS,Industrials,Shares of several industrial companies are trading higher amid optimism that coronavirus cases in Asia are potentially easing. Strength may also be attributed to optimism that coronavirus cases in several US hotspots appear to be reaching their peak.,0.9349
+most_negative,2023-05-04,NVDA,Tech,"Dollar Destruction Hysteria: Why the Panic is Wrong, Again",-0.9186
+most_negative,2020-04-21,KO,Consumer,Wall Street falls as U.S. crude collapse worsens pandemic woes,-0.9169
+most_negative,2020-05-15,ABT,Healthcare,Wall Street eyes weak open as trade war fears add to virus woes,-0.91
+most_negative,2020-05-15,AMD,Tech,Wall Street eyes weak open as trade war fears add to virus woes,-0.91
+most_negative,2020-05-15,QCOM,Tech,Wall Street eyes weak open as trade war fears add to virus woes,-0.91
+most_negative,2022-03-17,MRK,Healthcare,"AstraZeneca, Merck's Lynparza Cut Risk of Breast Cancer Death",-0.91
+most_negative,2020-06-01,WMT,Consumer,Apple CEO Condemns Killing Of George Floyd; Says Racial Injustice Exists In U.S.,-0.9081
+most_negative,2020-02-28,MMM,Industrials,Worst Of The Worst: Losses Accelerate Into Close As Toughest Week In Years Continues,-0.9042
+most_negative,2020-02-28,SBUX,Consumer,Worst Of The Worst: Losses Accelerate Into Close As Toughest Week In Years Continues,-0.9042
+most_negative,2022-11-10,DIS,Consumer,"Argentina disqualified, stolen World Cup: TV show plays to fans' worst fears",-0.8979
+most_negative,2020-05-15,BA,Industrials,"S&P 500, Dow edge lower on trade war fears, virus woes",-0.8957
+most_negative,2020-05-15,QCOM,Tech,"S&P 500, Dow edge lower on trade war fears, virus woes",-0.8957
+most_negative,2021-08-16,T,Comm,Telcos Lost the 4G Battle – and Could Lose the 5G War,-0.8885
+most_negative,2021-08-16,TMUS,Comm,Telcos Lost the 4G Battle – and Could Lose the 5G War,-0.8885
+most_negative,2021-09-20,MRK,Healthcare,Merck's Keytruda Plus Chemotherapy Reduces Risk Of Death By One-Third In Metastatic Cervical Cancer,-0.886
+most_negative,2022-05-05,NVDA,Tech,Stock Market Today: Stocks Suffer Worst Losses of 2022,-0.8834
+most_negative,2023-02-21,CVX,Energy,Caspian Pipeline Consortium crude loadings suspended owing to bad weather,-0.8834
+most_negative,2023-02-21,XOM,Energy,Caspian Pipeline Consortium crude loadings suspended owing to bad weather,-0.8834
+most_negative,2020-05-07,GS,Financials,ANALYSIS-Coronavirus crisis threatens Deutsche Bank's 'bad bank' wind-down,-0.8807
+most_negative,2020-05-07,MS,Financials,ANALYSIS-Coronavirus crisis threatens Deutsche Bank's 'bad bank' wind-down,-0.8807
+most_negative,2020-05-08,GS,Financials,ANALYSIS-Coronavirus crisis threatens Deutsche Bank's 'bad bank' wind-down,-0.8807
+most_negative,2020-05-08,MS,Financials,ANALYSIS-Coronavirus crisis threatens Deutsche Bank's 'bad bank' wind-down,-0.8807
+most_negative,2020-07-27,INTC,Tech,Intel Suffers Worst Drop Since March Following Delayed Chip News,-0.8807
+most_negative,2021-01-11,BA,Industrials,Dow Jones Slumps 100 Points; Boeing Stock Lower After Fatal Crash; Cisco Fights to Close Acacia Merger,-0.8779
+most_negative,2023-03-13,MS,Financials,Global bank stock rout deepens as SVB collapse fans crisis fears,-0.8779

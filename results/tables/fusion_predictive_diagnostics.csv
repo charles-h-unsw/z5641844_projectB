@@ -1,0 +1,4 @@
+sample,pooled_spearman,average_cross_sectional_spearman,valid_monthly_observations,valid_pair_observations,median_coverage_quality
+all_valid,-0.0704526144345,-0.114478114478,36,360,0.816336134818
+above_median_coverage_quality,-0.0397642888992,-0.111772486772,36,180,0.816336134818
+at_or_below_median_coverage_quality,-0.0992072646922,-0.18373015873,36,180,0.816336134818

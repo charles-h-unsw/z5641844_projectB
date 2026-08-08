@@ -1,0 +1,23 @@
+check,value,status,detail
+equity_tickers,50,PASS,frozen bundle expectation
+crypto_tickers,10,PASS,frozen bundle expectation
+equity_sectors,10,PASS,frozen bundle expectation
+crypto_rows_after_2023_12_31_removed,10,PASS,documented stray 2024-01-01 rows
+news_exact_duplicates_removed,2847,PASS,ticker-source_date-title duplicate rule
+equity_duplicate_keys,0,PASS,ticker-date unique
+crypto_duplicate_keys,0,PASS,ticker-date unique
+news_duplicate_keys,0,PASS,ticker-source_date-title unique
+nonpositive_equity_price_rows,0,PASS,required OHLC adjusted-close fields
+nonpositive_crypto_price_rows,0,PASS,required OHLC adjusted-close fields
+equity_return_rows,1005,PASS,first all-NaN return date is dropped
+crypto_return_rows,1460,PASS,native 7-day calendar
+combined_index_equals_equity_returns,True,PASS,combined panel uses equity-return calendar
+combined_columns,60,PASS,50 equities plus 10 cryptos
+news_unknown_tickers,0,PASS,news tickers in equity universe
+news_sector_mismatches,0,PASS,news sectors match price universe
+headline_outside_calendar_rows,6,PASS,end-of-sample outside-calendar rows are explicit
+ticker_day_news_unique_key,0,PASS,full panel key
+daily_coverage_rows,10060,PASS,all equity-date-sector combinations
+monthly_coverage_rows,480,PASS,48 months x 10 sectors
+monthly_coverage_key,0,PASS,month-sector unique
+daily_coverage_key,0,PASS,date-sector unique

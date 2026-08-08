@@ -1,0 +1,10 @@
+path,purpose,exists,row_count,column_count,minimum_date,maximum_date,unique_funds,unique_sectors,duplicate_key_count,schema_status,readiness_status
+results/data/fund_returns.csv,"App-ready daily gross and net fund returns, wealth, drawdown, turnover, and costs.",True,9309,13,2021-01-01,2023-12-31,11,,0,PASS,READY
+results/data/fund_weights.csv,App-ready monthly target and pretrade fund holdings.,True,16560,11,2021-01-01,2023-12-01,11,,0,PASS,READY
+results/data/sector_sentiment_index.csv,App-ready standalone daily equity-sector sentiment index with lagged fields.,True,10060,16,2020-01-02,2023-12-29,,10,0,PASS,READY
+results/data/fusion_rebalance_signals.csv,App-ready monthly sector sentiment and coverage-gated fusion signals.,True,360,14,2021-01-04,2023-12-01,,10,0,PASS,READY
+results/tables/performance_metrics.csv,App-ready fund performance metrics and assumptions.,True,11,25,,,11,,0,PASS,READY
+results/tables/fusion_before_after.csv,App-ready before-vs-after comparison for Equity Equal Weight and sentiment tilts.,True,3,14,,,3,,0,PASS,READY
+results/tables/fusion_predictive_diagnostics.csv,App-ready non-parametric sentiment-return diagnostics.,True,3,6,,,,,0,PASS,READY
+results/tables/fund_latest_holdings.csv,App-ready latest holdings for all final funds.,True,460,11,2023-12-01,2023-12-01,11,,0,PASS,READY
+results/tables/fund_fact_sheet_summary.csv,App-ready compact fact-sheet summary for every final fund.,True,11,14,2021-01-01,2021-01-04,11,,0,PASS,READY

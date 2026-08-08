@@ -1,0 +1,34 @@
+# Python / test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local environment and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Raw/cached course data (derived results remain tracked)
+*.parquet
+project_data.zip
+**/raw_data/
+**/.cache/
+
+# Report QA and Office temporary files
+report/_qa/
+~$*
+
+# Local archives and recovery copies
+*.zip
+*_BACKUP*/
+*_BROKEN*/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

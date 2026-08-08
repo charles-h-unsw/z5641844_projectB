@@ -1,0 +1,4 @@
+fund_id,fund_name,annualised_return_net,annualised_volatility_net,Sharpe_net,maximum_drawdown_net,cumulative_return_net,average_rebalance_turnover,total_transaction_cost,number_of_rebalances,change_in_return_vs_base,change_in_volatility_vs_base,change_in_Sharpe_vs_base,change_in_max_drawdown_vs_base
+equity_equal_weight,Equity Equal Weight,0.126064455741,0.161171384584,0.817346286309,-0.202639684483,0.425856770942,0.0264826351926,0.000953374866933,36,0,0,0,0
+equity_sentiment_coverage_gated,Equity Coverage-Gated Sentiment Tilt,0.119124403241,0.159964874382,0.783647524388,-0.201392881569,0.399758819181,0.0473798115841,0.00170567321703,36,-0.00694005250024,-0.00120651020236,-0.0336987619209,0.00124680291367
+equity_sentiment_naive,Equity Naive Sentiment Tilt,0.116501534593,0.159654322609,0.770161834016,-0.201340175758,0.389978936661,0.0546988597772,0.00196915895198,36,-0.00956292114823,-0.00151706197519,-0.047184452293,0.00129950872464
