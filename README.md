@@ -105,5 +105,5 @@ Deployment requirements are kept separate from local development dependencies. T
 
 ## Submission Placeholders
 
-- Live Streamlit URL: `[TO BE ADDED AFTER DEPLOYMENT]`
-- Public GitHub repository URL: `[TO BE ADDED AFTER REPOSITORY PUBLICATION]`
+- Live Streamlit URL: https://z5641844projectb-27zghttja2ajpyztryvvm3.streamlit.app/
+- Public GitHub repository URL: https://github.com/charles-h-unsw/z5641844_projectB
